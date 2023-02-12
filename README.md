@@ -1,5 +1,5 @@
 # Spring-Cloud-Config-Server
-Config server to host all dependency micro service URLs
+Config server to host all the dependant micro service URLs
 
 Config repo url is mentioned in application.properties file.
 (spring.cloud.config.server.git.uri)
